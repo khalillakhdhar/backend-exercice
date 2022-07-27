@@ -1,4 +1,4 @@
 module.exports=
 {
-    url:"mongodb://localhost:27017/exercice"
+    url:"mongodb+srv://khalildb:azerty123@cluster0.gs7xs.mongodb.net/test"
 }
